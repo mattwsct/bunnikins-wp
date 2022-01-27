@@ -1,0 +1,83 @@
+[2021-11-29 06:15:12 : INFO] - Re_Smush_It_Task with attachment ID : 330, autocreated on : November 29, 2021 06:15:12 
+[2021-11-29 06:16:47 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:17:04 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:15 : INFO] - 
+ 
+[2021-11-29 06:20:15 : INFO] - Header for logs at time:  Mon, 29 Nov 2021 06:20:15 +0000 on https://bunnikins.com 
+[2021-11-29 06:20:15 : INFO] - WP: 5.8.2 
+[2021-11-29 06:20:15 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-29 06:20:15 : INFO] - MySQL: 5.5.5 
+[2021-11-29 06:20:15 : INFO] - WPLANG: en_AU 
+[2021-11-29 06:20:15 : INFO] - Server: nginx/1.19.3 
+[2021-11-29 06:20:15 : INFO] - Outbound connections: N 
+[2021-11-29 06:20:15 : INFO] - safe_mode: 0 
+[2021-11-29 06:20:15 : INFO] - max_execution_time: 30 
+[2021-11-29 06:20:15 : INFO] - memory_limit: 256M (used: 17.4M | 20M) 
+[2021-11-29 06:20:15 : INFO] - multisite: N 
+[2021-11-29 06:20:15 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-29 06:20:15 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-11-29 06:20:15 : INFO] - Set semaphore last lock (smush) time to 2021-11-29 06:20:15 
+[2021-11-29 06:20:15 : INFO] - Semaphore lock (smush) complete 
+[2021-11-29 06:20:15 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2021-11-29 06:20:15 : INFO] - Task with ID 8 and type (smush) failed with error code exceeded_max_filesize - /home/runcloud/webapps/bunnikins/wp-content/uploads/2021/11/Aquarium-Adventures.mov - cannot be optimized, file size is above service provider limit 
+[2021-11-29 06:20:15 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2021-11-29 06:20:15 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:15 : INFO] - 100 
+[2021-11-29 06:20:18 : INFO] - Backing up the original image - 2021/11/Owakudani-Sengokuhara-Hakone-Japan-scaled-1-updraft-pre-smush-original.jpeg 
+[2021-11-29 06:20:18 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:18 : INFO] - 100 
+[2021-11-29 06:20:19 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:19 : INFO] - 100 
+[2021-11-29 06:20:21 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:21 : INFO] - 100 
+[2021-11-29 06:20:22 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:22 : INFO] - 100 
+[2021-11-29 06:20:24 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:24 : INFO] - 100 
+[2021-11-29 06:20:26 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:26 : INFO] - 100 
+[2021-11-29 06:20:29 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:29 : INFO] - 100 
+[2021-11-29 06:20:32 : INFO] - Re_Smush_It_Task with attachment ID : 332, autocreated on : November 29, 2021 06:16:47 
+[2021-11-29 06:20:32 : INFO] - 100 
+[2021-11-29 06:20:32 : INFO] - Successfully optimized the image - /home/runcloud/webapps/bunnikins/wp-content/uploads/2021/11/Owakudani-Sengokuhara-Hakone-Japan-scaled-1.jpeg.The file was compressed from 1.15 MB to 1.09 MB saving 5.17 percent using WP-Optimize 
+[2021-11-29 06:20:32 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2021-11-29 06:20:32 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2021-11-29 06:20:32 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:32 : INFO] - 100 
+[2021-11-29 06:20:35 : INFO] - Backing up the original image - 2021/11/cropped-Owakudani-Sengokuhara-Hakone-Japan-scaled-1-updraft-pre-smush-original.jpeg 
+[2021-11-29 06:20:35 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:35 : INFO] - 100 
+[2021-11-29 06:20:36 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:36 : INFO] - 100 
+[2021-11-29 06:20:38 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:38 : INFO] - 100 
+[2021-11-29 06:20:38 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:38 : INFO] - 100 
+[2021-11-29 06:20:40 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:40 : INFO] - 100 
+[2021-11-29 06:20:42 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : November 29, 2021 06:17:04 
+[2021-11-29 06:20:42 : INFO] - 100 
+[2021-11-29 06:20:43 : INFO] - Successfully optimized the image - /home/runcloud/webapps/bunnikins/wp-content/uploads/2021/11/cropped-Owakudani-Sengokuhara-Hakone-Japan-scaled-1.jpeg.The file was compressed from 510.67 KB to 485.66 KB saving 4.9 percent using WP-Optimize 
+[2021-11-29 06:20:43 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2021-11-29 06:20:43 : INFO] - Set semaphore last lock (smush) time to 2021-11-29 06:20:43 
+[2021-11-29 06:20:43 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-29 06:20:43 : INFO] - Semaphore (smush) unlocked 
+[2021-11-29 06:20:43 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-11-29 06:20:43 : INFO] - Semaphore (smush, bunnikins_options) was successfully cleaned up 
+[2021-11-29 06:20:43 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-11-29 06:30:31 : INFO] - 
+ 
+[2021-11-29 06:30:31 : INFO] - Header for logs at time:  Mon, 29 Nov 2021 06:30:31 +0000 on https://bunnikins.com 
+[2021-11-29 06:30:31 : INFO] - WP: 5.8.2 
+[2021-11-29 06:30:31 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-29 06:30:31 : INFO] - MySQL: 5.5.5 
+[2021-11-29 06:30:31 : INFO] - WPLANG: en_AU 
+[2021-11-29 06:30:31 : INFO] - Server: nginx/1.19.3 
+[2021-11-29 06:30:31 : INFO] - Outbound connections: N 
+[2021-11-29 06:30:31 : INFO] - safe_mode: 0 
+[2021-11-29 06:30:31 : INFO] - max_execution_time: 30 
+[2021-11-29 06:30:31 : INFO] - memory_limit: 256M (used: 17.4M | 20M) 
+[2021-11-29 06:30:31 : INFO] - multisite: N 
+[2021-11-29 06:30:31 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-29 06:30:31 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
